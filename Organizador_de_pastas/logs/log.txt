@@ -1,0 +1,22 @@
+[CRIADO] Pasta: Organizador_de_pasta | 2026-03-23 20:04:37.869737
+[CRIADO] Pasta: pasta_temporaria | 2026-03-23 20:04:37.869737
+[CRIADO] Subpasta: Organizador_de_pasta\txt | 2026-03-23 20:04:37.872751
+[CRIADO] Subpasta: Organizador_de_pasta\pdf | 2026-03-23 20:04:37.872751
+[CRIADO] Subpasta: Organizador_de_pasta\docx | 2026-03-23 20:04:37.872751
+[CRIADO] Subpasta: Organizador_de_pasta\xlsx | 2026-03-23 20:04:37.872751
+[CRIADO] Subpasta: Organizador_de_pasta\png | 2026-03-23 20:04:37.872751
+[CRIADO] Subpasta: Organizador_de_pasta\jpg | 2026-03-23 20:04:37.872751
+[EXTRAÍDO] organizador.zip -> pasta_temporaria | 2026-03-23 20:04:37.917485
+[MOVIDO] acompanhamento_vendas.xlsx -> Organizador_de_pasta\xlsx\acompanhamento_vendas.xlsx | 2026-03-23 20:04:37.917854
+[MOVIDO] Artigo_cientifico.docx -> Organizador_de_pasta\docx\Artigo_cientifico.docx | 2026-03-23 20:04:37.917854
+[MOVIDO] betoneira.png -> Organizador_de_pasta\png\betoneira.png | 2026-03-23 20:04:37.917854
+[MOVIDO] bomba_dagua.png -> Organizador_de_pasta\png\bomba_dagua.png | 2026-03-23 20:04:37.919706
+[MOVIDO] Carta-proposta.docx -> Organizador_de_pasta\docx\Carta-proposta.docx | 2026-03-23 20:04:37.919706
+[MOVIDO] contrato_da_empresa.pdf -> Organizador_de_pasta\pdf\contrato_da_empresa.pdf | 2026-03-23 20:04:37.919706
+[MOVIDO] Controle-de-Cheques.xlsx -> Organizador_de_pasta\xlsx\Controle-de-Cheques.xlsx | 2026-03-23 20:04:37.919706
+[MOVIDO] EXEMPLO_ORCAMENTO_ANUAL_EMPRESARIAL2-1-1.xlsx -> Organizador_de_pasta\xlsx\EXEMPLO_ORCAMENTO_ANUAL_EMPRESARIAL2-1-1.xlsx | 2026-03-23 20:04:37.919706
+[MOVIDO] gatinho.png -> Organizador_de_pasta\png\gatinho.png | 2026-03-23 20:04:37.921349
+[MOVIDO] relatorio_semanal.txt -> Organizador_de_pasta\txt\relatorio_semanal.txt | 2026-03-23 20:04:37.921349
+[MOVIDO] wallpaper.jpg -> Organizador_de_pasta\jpg\wallpaper.jpg | 2026-03-23 20:04:37.921349
+[MOVIDO] wallpaper2.jpg -> Organizador_de_pasta\jpg\wallpaper2.jpg | 2026-03-23 20:04:37.921349
+[REMOVIDO] Pasta: pasta_temporaria | 2026-03-23 20:04:37.921349
